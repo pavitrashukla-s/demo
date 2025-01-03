@@ -1,4 +1,4 @@
 # demo
 My first repo
 <br>
-Author- Pavitra Shukla
+Author- Pavitra Pankaj Shukla
